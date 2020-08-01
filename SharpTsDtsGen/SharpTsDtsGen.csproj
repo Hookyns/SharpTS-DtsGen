@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp3.0</TargetFramework>
+		<Title>SharpTS TypeScript Generator</Title>
+		<Authors>Roman Jámbor</Authors>
+		<Description>Tool for generating TS files from Pages and ViewModels</Description>
+		<PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+	</PropertyGroup>
+
+</Project>

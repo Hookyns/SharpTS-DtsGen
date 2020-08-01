@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpJsDtsGen", "SharpJsDtsGen\SharpJsDtsGen.csproj", "{E8B5F2BA-11F7-473A-8A22-79A86D2C96EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8B5F2BA-11F7-473A-8A22-79A86D2C96EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B5F2BA-11F7-473A-8A22-79A86D2C96EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B5F2BA-11F7-473A-8A22-79A86D2C96EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B5F2BA-11F7-473A-8A22-79A86D2C96EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
